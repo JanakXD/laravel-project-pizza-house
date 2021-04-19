@@ -1,0 +1,35 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color : #000;
+    background-color: #fff;
+}
+.display-4 {
+    text-transform: uppercase;
+    padding: 12px 0;
+    color: #4db14d;
+}
+
+footer {
+    background-color: #efefef;
+    padding: 20px;
+    text-align: center;
+}
+
+.mcard {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.mar {
+    margin-top: 20px;
+}
+
+.headerimg {
+    width: 800px;
+}
+
+.img {
+    width: 100px;
+}
